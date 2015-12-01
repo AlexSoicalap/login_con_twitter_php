@@ -2,7 +2,7 @@
 Simple ejemplo de como trabajar con el API de Twitter en una aplicación PHP para iniciar sesión con una cuenta de Twitter.
 
 Este código es resultado del video-tutorial en Youtube:
-https://youtu.be/m9SlwxlefvI
+https://youtu.be/AXpaUm_-dFQ
 
 
 Si quieres probar el código en tu servidor estos son los cambios que necesitas hacer:
